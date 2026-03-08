@@ -5,27 +5,61 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Embodied%20AI-orange?style=for-the-badge" alt="Focus">
-  <img src="https://img.shields.io/badge/Platform-ROS2-blue?style=for-the-badge" alt="Platform">
-  <img src="https://img.shields.io/badge/Hardware-NVIDIA%20Jetson-green?style=for-the-badge" alt="Hardware">
+  <img src="https://img.shields.io/badge/Paradigm-Active%20Inference-orange?style=for-the-badge" alt="Paradigm">
+  <img src="https://img.shields.io/badge/Architecture-Cognitive%20Manifold-blue?style=for-the-badge" alt="Architecture">
+  <img src="https://img.shields.io/badge/Hardware-Edge%20Compute%20Nodes-green?style=for-the-badge" alt="Hardware">
 </p>
 
 ---
 
-## 🚀 关于我们 / About Us
-[cite_start]**Infused Synapse AI (伊辛智脑)** 是一家专注于**具身智能 (Embodied AI)** 底层认知架构开发的前沿科技组织 [cite: 3]。
+## 📜 宣言 / Manifesto
+**Infused Synapse AI (伊辛智脑)** 是一家隐匿于具身智能（Embodied AI）范式前沿的底层认知架构实验室。
 
-[cite_start]在当前机器人行业由硬件性能向软件智能转型的拐点，我们坚持从第一性原理出发，重新定义机器智能形态 [cite: 3][cite_start]。区别于主流的“行为克隆”或传统端到端路径，我们采用认知重构的技术路径，通过引入神经科学中的主动推理与海马体记忆机制，构建了机器智能的内生认知架构 [cite: 4][cite_start]。作为具身智能时代的认知内核架构师，我们致力于使机器从执行固定脚本的工具，进化为能够理解复杂环境、自主累积经验并协作共创的认知伙伴 [cite: 29, 31]。
+当整个行业深陷于“海量数据拟合”与“端到端暴力美学”的泥沼时，我们看到了“认知鸿沟（Cognition Gap）”与“进化停滞（Evolution Barrier）”的必然局限。我们拒绝将机器人降维为依赖行为克隆（Behavior Cloning）的示教傀儡。
 
-### 🧬 核心技术 / Core Technologies
-* [cite_start]**IS-Brain 智脑操作系统**: 融合主动推理（Active Inference）与自由能最小化（MFE）理论的通用自主认知大脑 [cite: 64, 70][cite_start]。 该系统支持跨形态部署，能够统领人形、四足、轮式及机械臂等异构硬件设备 [cite: 30, 64]。
-* [cite_start]**RoboMemory 认知进化系统**: 独创的类海马体记忆架构，赋予机器人情景记忆与技能回放能力 [cite: 23, 65][cite_start]。系统能够在交互中主动推理并吸取教训，实现真正的在线持续学习（Run-time Learning），从根源上解决了具身智能领域长期存在的灾难性遗忘难题 [cite: 4, 37, 65, 98]。
-* [cite_start]**去中心化蜂群协作协议**: 基于“涌现式协同”逻辑，打破单机智能边界 [cite: 66][cite_start]。支持异构机器人集群通过共享意图与环境信号，像“蚁群”一样自主完成物料流转与长序列协同作业 [cite: 66]。
+我们选择回归智能的第一性原理。通过将神经科学中的**主动推理（Active Inference）**、**自由能最小化（MFE）**理论与动态计算架构相融合，我们在高维物理空间中重构了机器智能的内生认知底座。我们正推动行业从“数据拟合的工具”走向“架构生长的生命”，致力于见证真正“类脑智能”在硅基躯体上的涌现。
 
-### 🛠️ 技术栈 / Tech Stack
-* **软件框架**: ROS2 (Humble), Python, C++17
-* [cite_start]**感知与控制**: Livox Mid-360 LiDAR, 多模态视觉融合, 100Hz 级认知-行动闭环 [cite: 94]
-* **智能平台**: NVIDIA Jetson AGX Orin, RealMan RMC-DA
+---
+
+## 🧬 认知架构解析 / Cognitive Architecture
+
+我们的核心并不在于编写静态的运动控制脚本，而是构建了一个具备“自证性计算（Self-Evidencing Computation）”能力的动态认知动力系统。它由三大核心系统交织而成：
+
+### I. IS-Brain 动态认知内核 (Cognitive Core)
+摒弃传统的“感知-规划-执行”线性流水线，IS-Brain 构建了一个以“最小化变分自由能”为内在驱动力的闭环框架。
+* **贝叶斯大脑模型**：系统通过主动认知生成对未来的先验期望，通过非主动认知处理感官的似然证据，在动态切换中化解物理世界的不确定性。
+* **认知纤维丛网络 (CFNet)**：作为整个认知系统的高速路由，在高维空间中进行实时多模态数据处理与几何结构化函子映射。 [Image of IS-Brain dynamic cognitive system architecture]
+
+### II. RoboMemory 海马体记忆流形 (Evolutionary Memory)
+这是我们跨越“灾难性遗忘”技术鸿沟的终极武器。
+* 模拟生物海马体的神经流形机制，赋予智能体情景记忆与抽象技能回放能力。
+* **在线持续学习 (Run-time Learning)**：智能体在运行中主动推理并吸取教训，将短暂的交互经验固化为长期的技能基元，实现小时级的场景泛化与真正的“越用越聪明”。
+
+### III. 去中心化蜂群协作协议 (Decentralized Swarm)
+打破单机智能的算力孤岛，构建基于“涌现式协同”的多体网络。
+* 支持人形、四足、轮式底盘及机械臂等异构智能体集群。
+* 每一台搭载 IS-Brain 的设备都是分布式网络中的认知节点，通过共享意图与环境感知，像“蚁群”般自主完成高达 50-100 步的长程复杂协同任务。
+
+---
+
+## 🔄 范式转移 / Paradigm Shift
+
+我们正引领具身智能从 System 1（直觉反射）向 System 2（逻辑推理与进化）的深度跨越。
+
+| 维度 | 传统具身大模型 (VLA/静态大模型) | IS-Brain 类脑动态架构 |
+| :--- | :--- | :--- |
+| **学习模式** | **离线/被动**：知识固化为静态参数，微调新知识会导致“灾难性遗忘”。 | **在线/主动**：在运行时（Run-time）动态生长，经验持续累积而不覆盖。 |
+| **知识表征** | **统计关联**：基于高维向量的概率采样，因果与逻辑推理薄弱。 | **因果推理**：解耦物体、属性与关系，形成内置的物理世界模拟器。 |
+| **系统稳态** | **提示工程依赖**：存在幻觉风险，遇长尾场景极易崩溃。 | **内生稳态**：基于自由能原理，主动采取行动化解预期误差，实现真正的无人化。 |
+| **泛化能力** | **受限于数据**：换水瓶和换充电器被视为两种需重新训练的任务。 | **认知驱动**：通过认知类比实现技能的小样本（Few-shot）极速迁移。 |
+
+---
+
+## 🛠️ 计算与部署基座 / Computational Foundation
+
+* **理论内核**: Active Inference, MFE (变分自由能最小化), Koopman 算子理论, 信息几何
+* **高频演化中枢**: 支持 100Hz+ 端侧认知-行动闭环，采用任务驱动的稀疏激活模式，极大降低推理延迟。
+* **物理交互节点**: 深度适配 NVIDIA Jetson AGX Orin 边缘算力矩阵；兼容 Livox 空间感知拓扑与 RealMan 等多模态异构平台。
 
 ---
 
@@ -36,15 +70,15 @@
 | 项目名称 | 状态 | 简介 |
 | :--- | :--- | :--- |
 | **[robomemory](./robomemory)** | 🟢 Public | 机器人多模态记忆管理系统，支持状态回溯与长程感知规划。 |
-| **[demo-collection](./demo-collection)** | 🟡 Public | 包含智能轮椅避障与双臂协作抓取的运行演示。 |
-| **Core-Control-System** | 🔴 Private | 涉及核心知识产权的底层驱动与导航算法（仅限内部成员）。 |
+| **[demo-collection](./demo-collection)** | 🟡 Public | 包含智能移动底盘避障与双臂协作抓取的运行演示。 |
+| **Core-Control-System** | 🔴 Private | 涉及核心知识产权的底层驱动、认知流形映射与因果导航算法（仅限核心授权网络）。 |
 
 ---
 
 ## 🎥 演示预览 / Demos
 
 <p align="center">
-  <em>点击下方预览图，即可在新窗口观看高清实验录像。</em>
+  <em>点击下方预览图，即可在新窗口观看由 IS-Brain 驱动的高清实验录像。</em>
 </p>
 
 | 🚗 智能移动平台 (Tok4 Demo) | 🦾 RealMan 双臂协作 (RMC-DA Demo) |
@@ -53,9 +87,9 @@
 
 ---
 
-## 🤝 联系与合作 / Contact
-* **邮箱**: hanyatong@cuhk.edu.cn 
-* **方向**: 寻找在 Embodied AI、类脑计算与运动控制领域有热情的生态合作伙伴。
+## 🤝 接入认知网络 / Contact
+* **通信协议 (Email)**:  hanyatong@cuhk.edu.cn
+* **方向**: 寻找在 Embodied AI、类脑计算与神经动力学领域有热情的生态合作伙伴，共同跨越智能的奇点。
 
 ---
 <p align="center">
