@@ -1,4 +1,4 @@
-# 🧠 Infused Synapse AI (IS_AI)
+# 🧠 ISing_AI
 
 <p align="center">
   <strong>"Bridging Neural Intelligence and Physical Motion."</strong>
