@@ -1,4 +1,4 @@
-# 🧠 ISing_AI
+# 🧠 ISing AI
 
 <p align="center">
   <strong>"Bridging Neural Intelligence and Physical Motion."</strong>
@@ -13,7 +13,7 @@
 ---
 
 ## 📜 宣言 / Manifesto
-**Infused Synapse AI (伊辛智脑)** 是一家隐匿于具身智能（Embodied AI）范式前沿的底层认知架构实验室。
+**ISing AI (伊辛智脑)** 是一家隐匿于具身智能（Embodied AI）范式前沿的底层认知架构实验室。
 
 当整个行业深陷于“海量数据拟合”与“端到端暴力美学”的泥沼时，我们看到了“认知鸿沟（Cognition Gap）”与“进化停滞（Evolution Barrier）”的必然局限。我们拒绝将机器人降维为依赖行为克隆（Behavior Cloning）的示教傀儡。
 
