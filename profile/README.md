@@ -21,17 +21,6 @@
 
 ---
 
-## 📂 我们的项目 / Our Project 
-
-我们采取**开源与保护并行**的代码管理策略：
-
-| 项目名称 | 状态 | 简介 |
-| :--- | :--- | :--- |
-| **[robomemory](https://github.com/Infused-Synapse-AI/RHEP-exhibit)** | 🟢 Public | 机器人多模态记忆管理系统，支持状态回溯与长程感知规划。 |
-| **[demo-collection](./demo-collection)** | 🟡 Public | 包含智能移动底盘避障与双臂协作抓取的运行演示。 |
-
----
-
 ## 🎥 演示预览 / Demos
 
 <p align="center">
