@@ -31,7 +31,7 @@
 
 | 🎬 ISing AI 宣传片 (Promo Video) |
 | :---: |
-| <a href="https://www.bilibili.com/video/BV1bhc6z7EKq/" target="_blank"><img src="https://fanyuhang1223.oss-cn-beijing.aliyuncs.com/PicRoom/%E5%AE%A3%E4%BC%A0%E7%89%87.png" width="640" alt="宣传片"></a> |
+| <a href="【宣传视频更新】 https://www.bilibili.com/video/BV1jMcmzjEGB" target="_blank"><img src="https://fanyuhang1223.oss-cn-beijing.aliyuncs.com/PicRoom/%E5%AE%A3%E4%BC%A0%E7%89%87.png" width="640" alt="宣传片"></a> |
 
 ### 🧠 RoboMemory 
 | 🚗 RoboMemory (Tok4 Demo) | 🦾 RoboMemory (RMC-DA Demo) |
